@@ -11,6 +11,6 @@ public class LazyService {
     }
 
     public String hello() {
-        return "hello I am Yercaud";
+        return "hello I am Yercaud 2.0";
     }
 }
